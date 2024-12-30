@@ -110,7 +110,7 @@ class _MyAppState extends State<MyApp> {
                 colors: [
                   const Color.fromARGB(255, 2, 15, 74),
                   const Color.fromARGB(255, 39, 53, 176),
-                  const Color.fromARGB(255, 5, 87, 31)
+                  const Color.fromARGB(255, 7, 74, 28)
                 ],
               ).createShader(bounds);
             },
